@@ -1,5 +1,7 @@
 ## Rugved_AI_Taskphase
 TaskPhase updates:
+
+
 ##Week 1:
 
     Ubuntu 20.04 installation - Done
