@@ -1,6 +1,6 @@
 ## Rugved_AI_Taskphase
 TaskPhase updates:
-#Week 1:
+##Week 1:
 
     Ubuntu 20.04 installation - Done
     5 Stars in Python Hackkerrank - Done
