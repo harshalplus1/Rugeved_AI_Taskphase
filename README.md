@@ -2,15 +2,20 @@
 TaskPhase updates:
 #Week 1:
 
-    Ubuntu 20.04 installation done
-    Over the Wire - Till level 10
-    5 Stars in Python Hackkerrank
+
+    Ubuntu 20.04 installation - Done
+    5 Stars in Python Hackkerrank - Done
+
 
 ##Week 2
 
+
+    OverTheWire Bandit Level 13 - Done
     Numpy, Pandas, Matplotlib - Done
-    
+
+
 ##Week 3
+
 
     Git & Github Setup - Done
     To learn Linear Regression and Logistic Regression - Done
