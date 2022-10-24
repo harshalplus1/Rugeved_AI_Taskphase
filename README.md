@@ -2,20 +2,20 @@
 TaskPhase updates:
 
 
-##Week 1:
+#Week 1:
 
     Ubuntu 20.04 installation - Done
     5 Stars in Python Hackkerrank - Done
 
 
-##Week 2
+#Week 2
 
 
     OverTheWire Bandit Level 13 - Done
     Numpy, Pandas, Matplotlib - Done
 
 
-##Week 3
+#Week 3
 
 
     Git & Github Setup - Done
