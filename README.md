@@ -21,3 +21,9 @@ Week 3
     Git & Github Setup - Done
     To learn Linear Regression and Logistic Regression - Done
     Evaluated the give train and test Dataset
+
+
+Week 4
+
+
+    OpenCV Documentation and Reading from the sources -
