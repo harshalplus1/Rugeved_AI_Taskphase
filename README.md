@@ -26,4 +26,11 @@ Week 3
 Week 4
 
 
-    OpenCV Documentation and Reading from the sources -
+    OpenCV Documentation and Reading from the sources - Done
+    
+    
+Week 5
+
+
+    Pothole Detection - Done
+    Pothole Detection on Video - Done
