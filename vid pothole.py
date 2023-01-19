@@ -5,10 +5,7 @@ while True:
     ret,frame=vid.read()
     frame1=frame[83:576,3:853]
     gray=cv.cvtColor(frame1,cv.COLOR_BGR2GRAY)
-    blur=cv.GaussianBlur(gray,(23,23),11)
-    blur1=cv.medianBlur(blur,15)
-    blur2=cv.blur(blur1,(23,23))
-    blur3=cv.bilateralFilter(blur2,15,25,25)
+    blur3=cv.bilateralFilter(gray,15,25,25)
     # cv.imshow("Blur",blur3)
     threshold,bw=cv.threshold(blur3,137,153,cv.THRESH_BINARY)
     # cv.imshow("Binary_IMG",bw)
